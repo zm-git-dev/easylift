@@ -3,8 +3,8 @@
 `easylift` is a tool to convert genomic position of a gwas summary from one build to another.
 
 # Why easylift
-`easylift` is convenient!
-If you use `Liftover` to lift, you need to read your gwas, make a bed, lift, and then map to your gwas.
+`easylift` is convenient!  
+If you use `Liftover` to lift, you need to read your gwas, make a bed, lift, and then map to your gwas.  
 I built `Liftover` in `easylift`, so you can  uses a (tab separated) gwas summary as input and provide an output with a position field. 
 
 # Requirements
@@ -84,4 +84,4 @@ CHR     POS_old A1      A2      FRQ     BETA    SE      P       POS
 ```
 
 ## Feedback and comments
-Feel free to add a issue or contact me via zhanghaoyang0@hotmail.com
+Feel free to add an issue or contact me via zhanghaoyang0@hotmail.com
