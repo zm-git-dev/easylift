@@ -9,6 +9,7 @@ I built `Liftover` in `easylift`, so you can  uses a (tab separated) gwas summar
 
 # Requirements
 - `Linux` 
+- `LiftOver`
 - `Python3` (my version is 3.9.6) with `pandas` (my version is 1.4.3) and `argparse` (my version is 1.1)
 
 ## Getting Started
