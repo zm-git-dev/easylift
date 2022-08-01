@@ -1,9 +1,9 @@
 ### not run
 ### this script is for me to check something
 
-### add soft link of dbsnpV155
-rm -rf dbsnp_v155; ln -s ../db/dbsnp_v155 ./dbsnp_v155 # link to in-house dbsnp
-rm -rf dbsnp_v155; mkdir dbsnp_v155; touch dbsnp_v155/test # make empty fold
+### add soft link
+rm -rf liftover; ln -s ../db/liftover ./liftover # link to in-house db
+rm -rf liftover; mkdir liftover; touch liftover/test # make empty fold
 
 
 ### check module version

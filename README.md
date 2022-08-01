@@ -18,7 +18,7 @@ git clone https://github.com/zhanghaoyang0/easylift.git
 cd easylift
 ```
 
-Once the above has completed, you can try to add rsid field by specifying: 
+Once the above has completed, you can try to lift to new pos field by specifying: 
 `--lift` hg19tohg38 or hg38tohg19, default is hg19tohg38   
 `--chr_col` field name of CHR, default is CHR   
 `--pos_col` field name of POS, default is POS   
