@@ -5,7 +5,7 @@
 # Why easylift
 `easylift` is convenient!  
 If you use `Liftover` to lift, you need to read your gwas, make a bed, lift, and then map to your gwas.  
-I built `Liftover` in `easylift`, so you can  uses a (tab separated) gwas summary as input and provide an output with a position field. 
+I built `Liftover` in `easylift`, so you can use a (tab separated) gwas summary as input and obtain an output with a position field. 
 
 # Requirements
 - `Linux` 
